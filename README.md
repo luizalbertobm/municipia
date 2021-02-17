@@ -1,4 +1,10 @@
-# municipia
+# Municipia Challenge Project
+This project was build with vue using nuxt as a challenge for Municipia Company.
+
+## Requirements
+To run that you need to have the following apllications installed:
+
+Node Package Manager NPM (https://www.npmjs.com/get-npm)
 
 ## Build Setup
 
@@ -16,5 +22,3 @@ $ npm run start
 # generate static project
 $ npm run generate
 ```
-
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
